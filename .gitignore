@@ -1,0 +1,8 @@
+data/*
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.tar.gz
+font/cn/*
+font/vi/*
